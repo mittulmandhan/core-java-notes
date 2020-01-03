@@ -26,7 +26,7 @@
 - [ ] 24. Object Lifecycle(#2, 48)
 - [ ] 25. Method Table(#2, 53)
 
-**Advance Java**
+# Advance Java
 - [ ] 26. Adv. Java(#2, 56)
 - [ ] 27. Languages Used(#2, 56)
 - [ ] 28. Types Of Languages Used In Advance Java(#2, 57)
