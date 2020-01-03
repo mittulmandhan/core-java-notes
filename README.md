@@ -25,6 +25,7 @@
 - [ ] 23. New Keyword(#2, 41)
 - [ ] 24. Object Lifecycle(#2, 48)
 - [ ] 25. Method Table(#2, 53)
+
 **Advance Java**
 - [ ] 26. Adv. Java(#2, 56)
 - [ ] 27. Languages Used(#2, 56)
