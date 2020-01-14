@@ -14,10 +14,10 @@
 - [x] 12. Class Path(#1, 35)
 - [x] 13. Modifiers(#1, 36)
 - [x] 14. Access Modifiers(#1, 37)
-- [ ] 15. Import keyword(#2, 1)
-- [ ] 16. Private Access Modifier(#2, 6)
-- [ ] 17. Default Access Modifier(#2, 9)
-- [ ] 18. Protected Access Modifiers(#2, 12)
+- [x] 15. Import keyword(#2, 1)
+- [x] 16. Private Access Modifier(#2, 6)
+- [x] 17. Default Access Modifier(#2, 9)
+- [x] 18. Protected Access Modifiers(#2, 12)
 - [ ] 19. Inheritance(#2, 12)
 - [ ] 20. Types of Inheritance in Java(#2, 16)
 - [ ] 21. Heap(#2, 19)
@@ -35,6 +35,8 @@
 - [ ] 31. Interface servlet(#2, 60)
 - [ ] 32. URLs And DNS(#2, 61)
 - [ ] 33. Client and Server JVM(#2, 63)
+
+# Back to Core Java
 - [ ] 34. Steps to Solve A Problem(#2, 67)
 - [ ] 35. Compiler Make Changes In Code(#3, 13)
 - [ ] 36. Stack(#3, 15)
